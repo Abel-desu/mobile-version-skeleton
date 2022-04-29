@@ -1,44 +1,4 @@
 
-
-# Project Name
-portfolio
-> Description the project.
-exercise how to make the portifolios
-## Built With
-
-- html and css
-- figma
-
-## Authors
-
-## 👤 **Author1**
-
-- GitHub: [@abel-desu]
-- Twitter: [abeldesalegn]
-- LinkedIn: [Abel Desalegn]
-
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is microverse licensed.
-=======
-
 # Project Name
 mobile version portfolio
 
@@ -81,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@abeldesalegn]
 - LinkedIn: [abel desalegn]
 
-👤 
+👤 **Author2**
 
 
 ## 🤝 Contributing
@@ -103,4 +63,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
