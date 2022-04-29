@@ -1,47 +1,20 @@
 
 # Project Name
-mobile version portfolio
-
+portfolio
 > Description the project.
-mobile version 
-
+exercise how to make the portifolios
 ## Built With
 
 - html and css
-- figms
-
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- figma
 
 ## Authors
 
-👤 **Author1**
-- GitHub: [@abel-desu]
-- Twitter: [@abeldesalegn]
-- LinkedIn: [abel desalegn]
+## 👤 **Author1**
 
-👤 **Author2**
+- GitHub: [@abel-desu]
+- Twitter: [abeldesalegn]
+- LinkedIn: [Abel Desalegn]
 
 
 ## 🤝 Contributing
@@ -62,4 +35,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is microverse licensed.
