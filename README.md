@@ -41,7 +41,6 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@abeldesalegn]
 - LinkedIn: [abel desalegn]
 
-👤 **Author2**
 
 
 ## 🤝 Contributing
