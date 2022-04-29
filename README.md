@@ -2,7 +2,7 @@
 # Project Name
 mobile version portfolio
 
-> Description the project.
+## Description the project.
 mobile version 
 
 ## Built With
